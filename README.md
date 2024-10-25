@@ -40,7 +40,7 @@ This is a Python-based advanced password generator that allows users to create s
 3. Run the script:
 
    ```bash
-   python password_generator.py
+   python advanced-pass-generator.py
    ```
 
 4. Follow the prompts to specify the desired password length, character types, and the number of passwords to generate.
@@ -66,4 +66,3 @@ Contributions are welcome! If you have suggestions for improvements or enhanceme
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
