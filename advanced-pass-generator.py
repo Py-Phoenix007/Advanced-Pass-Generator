@@ -1,5 +1,10 @@
 import random
 
+# Author: Jeba Seelan
+# Topic: File Converter Tool
+# Created on: 2024-10-24
+# Description: This script generates customizable random passwords based on user preferences for length and character types (uppercase, lowercase, digits, and special characters). Users can specify how many passwords to create, making it a handy tool for generating secure passwords.
+
 def generate_password(length=12,
  use_uppercase=True,
  use_lowercase=True,
